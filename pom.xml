@@ -108,7 +108,7 @@
                         <include>*.java</include>
                     </includes>
                     <systemProperties>
-                        <webdriver.remote.url>http://52.174.110.130:32769/wd/hub</webdriver.remote.url>
+                        <webdriver.remote.url>http://{selenium-grid-ip-address}:${selenium-grid-port}/wd/hub</webdriver.remote.url>
                         <webdriver.remote.driver>chrome</webdriver.remote.driver>
                         <webdriver.remote.os>LINUX</webdriver.remote.os>
 
