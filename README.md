@@ -17,3 +17,6 @@ This project uses Serenity, Selenium, Cucumber and aXe.
       
 #Usage
 See wiki pages.
+
+#Issues
+* First screenshot taken for each scenario is from previous scenario
